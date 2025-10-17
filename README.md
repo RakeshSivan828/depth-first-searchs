@@ -88,8 +88,13 @@ F H <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 
+<hr>Output</hr>
+<img width="742" height="207" alt="image" src="https://github.com/user-attachments/assets/8ee06f5b-7105-4d17-9820-a085e09b0899" />
+
+
 <hr>
 <h3>Result:</h3>
 <hr>
+
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
 
